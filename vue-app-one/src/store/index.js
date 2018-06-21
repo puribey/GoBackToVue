@@ -32,7 +32,7 @@ export const store = new Vuex.Store({
       const meetup = {
         title: payload.title,
         location: payload.location,
-        imgURL: payload.imageUrl,
+        imgURL: payload.imgURL,
         description: payload.description,
         date: payload.date,
         id: 'kfdlsfjslakl12'
