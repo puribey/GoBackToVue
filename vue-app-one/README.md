@@ -2,6 +2,8 @@
 
 A dev meetup application built with Vue + Vuetify + Firebase.
 
+- Installed firebase and vuex
+
 ## Build Setup
 
 ``` bash

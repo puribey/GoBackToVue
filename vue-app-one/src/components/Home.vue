@@ -18,7 +18,7 @@
   	  	<v-btn large class="cyan darken-1" dark router to="/meetups">Explore Meetups</v-btn>
   	  </v-flex>
   	  <v-flex xs12 sm6 class="text-xs-center text-sm-left">
-  	  	<v-btn large class="teal darken-1" dark router to="/meetups/new">Organize Meetup</v-btn>
+  	  	<v-btn large class="teal darken-1" dark router to="/meetup/new">Organize Meetup</v-btn>
   	  </v-flex>
   	</v-layout>
   </v-container>
@@ -52,6 +52,5 @@ export default {
 	font-size: 30px;
 	color: #f5f5f5;
 }
-
 	
 </style>

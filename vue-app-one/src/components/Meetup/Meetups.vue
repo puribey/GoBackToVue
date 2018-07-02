@@ -16,7 +16,7 @@
   	  	  	  	<v-card-title>
   	  	  	      <div>
 	  	  	  	  	<h5 class="white--text mb-0">{{ meetup.title }}</h5>
-	  	  	  	  	<p>{{ meetup.date }}</p>
+	  	  	  	  	<p>{{ meetup.date | date}}</p>
   	  	  	  	  </div>
   	  	  	  	</v-card-title>
   	  	  	  	<v-card-actions style="padding:0;">
